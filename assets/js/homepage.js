@@ -85,4 +85,7 @@ var getUserRepos = function (user) {
   });
 };
 
-userFormEl.addEventListener("submit", formSubmitHandler);``
+
+userFormEl.addEventListener("submit", formSubmitHandler);
+userFormEl.addEventListener("submit", formSubmitHandler);
+
